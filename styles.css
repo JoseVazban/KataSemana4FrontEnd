@@ -1,0 +1,64 @@
+#img{
+    position:static ; 
+    text-align: center;
+    height: 550px;
+    width: 350px;
+}
+
+.titulo {
+    position: absolute;
+    top: 90px;
+    left: 120px;
+    z-index: 2;
+    text-transform: capitalize;
+}
+.formulario-encima{
+    position: absolute;
+    top: 70px;
+    left: 95px;
+    z-index: 2;
+}
+
+.poke-types {
+    text-transform: capitalize;
+    position: absolute;
+    top: 259px;
+    left: 170px;
+    z-index: 2;
+}
+
+.poke-stats {
+    text-transform: capitalize;
+    position: fixed;
+    padding: 200px;
+    top: 60px;
+    left: -120px;
+}
+
+.img-container {
+    position: fixed;
+    top: 110px;
+    left: 135px;
+    z-index: 1;
+}
+
+.poke-img {
+    position: fixed;
+    top: 100px;
+    left: 80px;
+    width: 210px;
+    height: 180px;
+}
+
+.poke-id {
+    position: absolute;
+    top: 90px;
+    left: 200px;
+    z-index: 2;
+    text-transform: capitalize;
+
+}
+
+
+
+
